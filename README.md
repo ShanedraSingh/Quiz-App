@@ -23,12 +23,12 @@ Check out the live demo [Click Here](https://shanedrasingh.github.io/Quiz-App/).
    git clone https://github.com/ShanedraSingh/Quiz-App
 2. Open the index.html file in your browser.
 2. Click "Start Quiz" to begin answering the questions.
-3. After answering all the questions, the final score will be displayed.
+3. the final score will be displayed after answering all the questions.
 
 ## Technologies Used
 - HTML: For structuring the quiz.
-- CSS: For designing and styling the quiz interface.
-- JavaScript: For dynamically handling questions, score calculation, and feedback.
+- CSS: This is used to design and style the quiz interface.
+- JavaScript: This is for dynamically handling questions, scoring calculation, and providing feedback.
 
 ## Author
 
